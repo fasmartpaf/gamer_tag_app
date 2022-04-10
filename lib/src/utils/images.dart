@@ -1,0 +1,43 @@
+String image = 'assets/images';
+
+class AppImages {
+  static String appleLogo = '$image/apple.png';
+  static String googleLogo = '$image/google.png';
+  static String chatBottom = '$image/chat.png';
+  static String profileBottom = '$image/profile.png';
+  static String homeBottom = '$image/home.png';
+  static String chatColoredBottom = '$image/chat_color.png';
+  static String profileColoredBottom = '$image/profile_color.png';
+  static String homeColoredBottom = '$image/home_color.png';
+  static String appLogo = '$image/logo.png';
+  static String appBlackLogo = '$image/logo_black.png';
+  static String gamerTagLogo = '$image/gamerTag.png';
+  static String info = '$image/info.png';
+  static String like = '$image/like.png';
+  static String disLike = '$image/disLike.png';
+  static String voice = '$image/voice.png';
+  static String addPic = '$image/add_pic.png';
+  static String addGame = '$image/add_game.png';
+  static String person4 = '$image/person4.png';
+  static String male = '$image/male.png';
+  static String backArrow = '$image/back_arrow.png';
+  static String person = '$image/blackman.jpg';
+  static String person1 = '$image/whiteman.jpg';
+  static String person2 = '$image/person1.jpg';
+  static String game = '$image/game.jpg';
+  static String game1 = '$image/game1.jpg';
+  static String game2 = '$image/game2.jpg';
+  static String game3 = '$image/game4.jpg';
+  static String homePic = '$image/k (1).jpg';
+  static String homePic1 = '$image/k (2).jpg';
+  static String homePic2 = '$image/k (3).jpg';
+  static String profile = '$image/P1.jpg';
+  static String profile1 = '$image/P2.jpg';
+  static String profile2 = '$image/P3.jpg';
+  static String msg = '$image/m (1).png';
+  static String msg1 = '$image/m (2).png';
+  static String msg2 = '$image/m (3).png';
+  static String msg3 = '$image/m (4).png';
+  static String msg4 = '$image/m (5).png';
+  static String msg5 = '$image/m (6).png';
+}

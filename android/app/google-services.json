@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104811921877",
+    "project_id": "gametags-e2f9c",
+    "storage_bucket": "gametags-e2f9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104811921877:android:069469495c3f51dfde7d5c",
+        "android_client_info": {
+          "package_name": "com.example.gamer_tag_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104811921877-t9tqa085rsrh9rt4ea9c3usttp49gtr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7bAVdWlv90TYGyGAsXf8oGHokSBTUgFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104811921877-t9tqa085rsrh9rt4ea9c3usttp49gtr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
